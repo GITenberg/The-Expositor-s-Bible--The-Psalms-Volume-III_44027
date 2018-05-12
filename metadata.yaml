@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '36133'
     url: http://www.gutenberg.org/2009/agents/36133
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44027#The-Expositor-s-Bible--The-Psalms-Volume-III
 gutenberg_issued: '2013-10-24'
 gutenberg_type: Text
 identifiers:
